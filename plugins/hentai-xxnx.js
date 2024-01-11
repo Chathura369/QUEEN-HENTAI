@@ -90,7 +90,7 @@ handler.tags = ['nsfw', 'prem'];
 handler.command = ['xnxxsearch', 'xnxxdl', 'xnxx'];
 handler.diamond = false;
 handler.premium = false;
-handler.group = true
-handler.register = true;
+handler.group = false;
+handler.register = false;
 
 export default handler;
